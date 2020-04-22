@@ -2,7 +2,7 @@ language: java
 jdk:
   - openjdk8
 script: ./mvnw clean install
-script: [![Build Status](https://travis-ci.com/username/projectname.svg?branch=master)](https://travis-ci.com/username/projectname)
+script: [![Build Status](https://travis-ci.com/Navyasree-068/travis_ci.svg?branch=master)](https://travis-ci.com/Navyasree-068/travis_ci)
 
 jobs:
    include:
